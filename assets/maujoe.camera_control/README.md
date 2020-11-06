@@ -13,11 +13,11 @@ Demo video: https://www.youtube.com/watch?v=OSJRc-IiOio&t=9s
 
 <details>
   <summary>Editor Settings</summary>
-	<img src="assets/maujoe.camera_control/screenshots/editor_settings.png" >
+   <img src="screenshots/editor_settings.png" >
 </details>
 <details>
   <summary>Ingame Gui</summary>
-	<img src="assets/maujoe.camera_control/screenshots/ingame_gui.png" >
+	<img src="screenshots/ingame_gui.png" >
 </details>
 
 ## How to use
@@ -72,7 +72,7 @@ If you don't need the demo just ignore the demo folder and connect your camera w
 
 The ingame gui can also be configurated via constants in the camera_control_gui.gd script
 
-![Image](assets/maujoe.camera_control/screenshots/gui_settings.png)
+![Image](screenshots/gui_settings.png)
 
 - const Vector2 GUI_POS - The default position of the gui. Default is (10, 10).
 - const Vector2 GUI_SIZE - The size of the gui. Default is (200, 0)
